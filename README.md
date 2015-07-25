@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Protocol Adapter Manager
 
 FI-STAR Phase: Beta  
@@ -81,3 +82,6 @@ As the licence reads, this is free software released by Consorzio Roma Ricerche.
 
 ## Acknowledgement
 This work was carried out with the support of the FI-STAR project (“Future Internet Social and Technological Alignment Research”), an integrated project funded by the European Commission through the 7th ICT - Framework Programme (318389).
+=======
+# Vader-2015
+>>>>>>> cc59874de7fbe7e95d4ad132b23d3cc18f601e55
